@@ -29,7 +29,7 @@
 		"@directus/errors": "workspace:*",
 		"@directus/utils": "workspace:*",
 		"ioredis": "5.5.0",
-		"lru-cache": "11.0.2",
+		"lru-cache": "11.1.0",
 		"rate-limiter-flexible": "5.0.5"
 	},
 	"devDependencies": {
