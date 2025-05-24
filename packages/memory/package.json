@@ -28,7 +28,7 @@
 	"dependencies": {
 		"@directus/errors": "workspace:*",
 		"@directus/utils": "workspace:*",
-		"ioredis": "5.5.0",
+		"ioredis": "5.6.1",
 		"lru-cache": "11.0.2",
 		"rate-limiter-flexible": "5.0.5"
 	},
