@@ -37,7 +37,7 @@
 		"@directus/themes": "workspace:*",
 		"@directus/types": "workspace:*",
 		"@directus/utils": "workspace:*",
-		"@rollup/plugin-commonjs": "25.0.8",
+		"@rollup/plugin-commonjs": "26.0.0",
 		"@rollup/plugin-json": "6.1.0",
 		"@rollup/plugin-node-resolve": "15.3.1",
 		"@rollup/plugin-replace": "5.0.7",
