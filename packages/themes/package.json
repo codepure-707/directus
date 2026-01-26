@@ -30,7 +30,7 @@
 		"@sinclair/typebox": "0.34.28",
 		"decamelize": "6.0.0",
 		"flat": "6.0.1",
-		"lodash-es": "4.17.21"
+		"lodash-es": "4.17.23"
 	},
 	"devDependencies": {
 		"@directus/tsconfig": "3.0.0",
